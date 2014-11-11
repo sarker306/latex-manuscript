@@ -1,0 +1,3 @@
+This work requires a decent xelatex distribution to be compile. Moreover, it requires the xelatexbengali package shipped with it.
+For linux/MacOX, you can download TeXLive. For Windows MiKTeX is recommended.
+After you have successfully installed any of the two programs, extract xelatexbengali.zip and install it correctly.
