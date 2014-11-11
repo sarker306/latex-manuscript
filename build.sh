@@ -1,4 +1,4 @@
 mkdir build
 cd build
-xelatex ../$1
+xelatex ../sample.tex
 
